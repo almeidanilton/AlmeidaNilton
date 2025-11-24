@@ -79,11 +79,3 @@ Me chamo José Nilton, tenho 21 anos e sou de São Paulo. Atualmente, estou em t
   />
 
 </p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidanilton&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
