@@ -11,14 +11,6 @@ Me chamo José Nilton, tenho 21 anos e sou de São Paulo. Atualmente, estou em t
             title="Me siga no Instagram" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
-    </a>
-    <a href="https://github.com/almeidanilton?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/almeidanilton?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
      <a href="https://www.linkedin.com/in/jos%C3%A9-nilton-a1b8b6280/">
         <img 
             alt="linkedin" 
@@ -79,6 +71,14 @@ Me chamo José Nilton, tenho 21 anos e sou de São Paulo. Atualmente, estou em t
     src="https://github-readme-stats.vercel.app/api?username=almeidanilton&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidanilton&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 <img 
       align="left" 
       alt="GitHub Stats" 
