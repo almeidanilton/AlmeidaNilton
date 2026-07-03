@@ -13,7 +13,7 @@
 
 ## 🧠 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Universidade São Judas Tadeu
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela FIAP
 
 💻 Desenvolvedor em Formação focado em Mobile Development, Cloud Computing, Cybersecurity e Inteligência Artificial.
 
