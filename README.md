@@ -1,27 +1,41 @@
-
 <h1 align="center">👨‍💻 José Nilton</h1>
 
 <p align="center">
-  Desenvolvedor em Formação | Mobile Development • Cloud Computing • Cybersecurity • AI Solutions
+  Cybersecurity • Java Development • Cloud Computing • Networking
 </p>
 
 <p align="center">
-  🚀 Construindo soluções em Software, Cloud, IA e Segurança
+  🔐 Explorando Cybersecurity e construindo soluções através da tecnologia
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas pela FIAP
+🎓 Estudante de Tecnologia na FIAP, atualmente em formação como Desenvolvedor Java.
 
-💻 Desenvolvedor em Formação focado em Mobile Development, Cloud Computing, Cybersecurity e Inteligência Artificial.
+🔐 Meu principal foco de interesse é **Cybersecurity**, área na qual venho aprofundando meus conhecimentos em segurança da informação, redes, Linux e análise de vulnerabilidades.
 
-🔄 Em transição da área de Odontologia Digital para Tecnologia, trazendo experiência com fluxos digitais, sistemas CAD/CAM, automações e otimização de processos.
+💻 Também estudo **Desenvolvimento de Software, Java, APIs, Banco de Dados e Cloud Computing**, buscando construir uma base sólida e multidisciplinar em Tecnologia da Informação.
 
-🚀 Atualmente desenvolvo projetos voltados para aplicações web, APIs, automação, computação em nuvem e soluções com IA, buscando transformar conhecimento em soluções práticas para problemas reais.
+🔄 Minha trajetória profissional começou na área de Odontologia Digital, onde desenvolvi experiência com fluxos digitais, sistemas CAD/CAM, tecnologia e otimização de processos. Atualmente, estou em transição de carreira para Tecnologia.
 
-📚 Em constante aprendizado através de projetos, certificações e desenvolvimento contínuo.
+🚀 Sou curioso, gosto de entender como as coisas funcionam e estou sempre aberto a explorar novas áreas, tecnologias e desafios dentro de TI.
+
+📚 Atualmente, busco evoluir através de projetos práticos, laboratórios de Cybersecurity, certificações e aprendizado contínuo.
+
+---
+
+## 🛡️ Atualmente estudando
+
+🔐 Cybersecurity  
+🌐 Computer Networking  
+🐧 Linux  
+☕ Java & Spring Boot  
+☁️ Cloud Computing  
+🗄️ SQL & PostgreSQL  
+🔎 Web Security  
+🐙 Git & GitHub  
 
 ---
 
@@ -32,18 +46,19 @@
 - ☕ [Java Fundamentos | Exercícios e Estudos](https://github.com/almeidanilton/atividade-java-alura)
 - 🌐 [Meu Portfólio](https://github.com/almeidanilton/Meu-portfolio)
 
-> 🦷 Em desenvolvimento: LabFlow — Plataforma de Gestão e Controle de Produção Laboratorial
+> 🦷 Em desenvolvimento: **LabFlow** — Plataforma de Gestão e Controle de Produção Laboratorial
+
+> 🔐 Em evolução: **Cybersecurity Labs** — Práticas, estudos e laboratórios de segurança da informação.
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
@@ -52,15 +67,33 @@
 
 ## 🎯 Áreas de Interesse
 
-📱 Mobile Development
+🔒 Cybersecurity
+
+🌐 Networking & Network Security
+
+☕ Java Development
 
 ☁️ Cloud Computing
 
-🔒 Cybersecurity
+💻 Software Development
 
 🤖 Artificial Intelligence
 
-🌐 Desenvolvimento Web
+---
+
+## 📈 Minha jornada
+
+**Odontologia Digital**  
+↓  
+**CAD/CAM • Tecnologia • Automação de Processos**  
+↓  
+**Transição para Tecnologia da Informação**  
+↓  
+**FIAP • Desenvolvimento Java**  
+↓  
+**Cybersecurity • Redes • Cloud**  
+↓  
+**Construindo minha carreira em TI 🚀**
 
 ---
 
@@ -75,4 +108,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-```
