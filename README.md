@@ -1,41 +1,46 @@
 <h1 align="center">👨‍💻 José Nilton</h1>
 
 <p align="center">
-  Cybersecurity • Java Development • Cloud Computing • Networking
+  Cybersecurity • Information Security • Networking • Cloud
 </p>
 
 <p align="center">
-  🔐 Explorando Cybersecurity e construindo soluções através da tecnologia
+  🔐 Construindo minha carreira em Cybersecurity e explorando novas possibilidades em Tecnologia
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-🎓 Estudante de Tecnologia na FIAP, atualmente em formação como Desenvolvedor Java.
+🎓 Estudante de Tecnologia na FIAP.
 
-🔐 Meu principal foco de interesse é **Cybersecurity**, área na qual venho aprofundando meus conhecimentos em segurança da informação, redes, Linux e análise de vulnerabilidades.
+🔐 Atualmente, meu principal foco profissional e de estudos é **Cybersecurity**, área na qual venho desenvolvendo conhecimentos em Segurança da Informação, Redes, Linux, Segurança Web e análise de vulnerabilidades.
 
-💻 Também estudo **Desenvolvimento de Software, Java, APIs, Banco de Dados e Cloud Computing**, buscando construir uma base sólida e multidisciplinar em Tecnologia da Informação.
+💻 Também estudo diferentes áreas e tecnologias que contribuem para minha formação em TI, buscando construir uma base sólida e multidisciplinar para compreender como diferentes áreas se conectam com a Segurança.
 
-🔄 Minha trajetória profissional começou na área de Odontologia Digital, onde desenvolvi experiência com fluxos digitais, sistemas CAD/CAM, tecnologia e otimização de processos. Atualmente, estou em transição de carreira para Tecnologia.
+🔄 Minha trajetória profissional começou na área de Odontologia Digital, onde desenvolvi experiência com fluxos digitais, sistemas CAD/CAM, tecnologia e otimização de processos. Atualmente, estou em transição de carreira para Tecnologia, direcionando minha trajetória para Cybersecurity.
 
-🚀 Sou curioso, gosto de entender como as coisas funcionam e estou sempre aberto a explorar novas áreas, tecnologias e desafios dentro de TI.
+🚀 Sou uma pessoa curiosa, gosto de entender como as coisas funcionam e estou sempre aberto a aprender novas tecnologias, explorar diferentes áreas de TI e contribuir com soluções para problemas reais.
 
-📚 Atualmente, busco evoluir através de projetos práticos, laboratórios de Cybersecurity, certificações e aprendizado contínuo.
+📚 Acredito que a evolução acontece através da prática. Por isso, busco constantemente aprender por meio de laboratórios, projetos práticos, certificações e desafios técnicos.
 
 ---
 
-## 🛡️ Atualmente estudando
+## 📚 Atualmente estudando
 
-🔐 Cybersecurity  
-🌐 Computer Networking  
-🐧 Linux  
-☕ Java & Spring Boot  
-☁️ Cloud Computing  
-🗄️ SQL & PostgreSQL  
-🔎 Web Security  
-🐙 Git & GitHub  
+🔐 Cybersecurity
+
+🌐 Redes 
+
+🐧 Linux
+
+☁️ Cloud Computing
+
+💻 Desenvolvimento de Software
+
+🐙 Git & GitHub
+
+☕ Java — em formação e estudos complementares
 
 ---
 
@@ -46,19 +51,19 @@
 - ☕ [Java Fundamentos | Exercícios e Estudos](https://github.com/almeidanilton/atividade-java-alura)
 - 🌐 [Meu Portfólio](https://github.com/almeidanilton/Meu-portfolio)
 
-> 🦷 Em desenvolvimento: **LabFlow** — Plataforma de Gestão e Controle de Produção Laboratorial
+> 🦷 Em desenvolvimento: **LabFlow** — Plataforma de Gestão e Controle de Produção Laboratorial.
 
-> 🔐 Em evolução: **Cybersecurity Labs** — Práticas, estudos e laboratórios de segurança da informação.
+> 🔐 Em evolução: **Cybersecurity Labs** — Práticas, estudos e laboratórios voltados à Segurança da Informação.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
@@ -67,33 +72,17 @@
 
 ## 🎯 Áreas de Interesse
 
-🔒 Cybersecurity
+🔐 Cybersecurity
 
-🌐 Networking & Network Security
+🛡️ Segurança da Informação
 
-☕ Java Development
+🌐 Network Security
 
-☁️ Cloud Computing
+☁️ Cloud Security
 
-💻 Software Development
+💻 Tecnologia e Desenvolvimento
 
-🤖 Artificial Intelligence
-
----
-
-## 📈 Minha jornada
-
-**Odontologia Digital**  
-↓  
-**CAD/CAM • Tecnologia • Automação de Processos**  
-↓  
-**Transição para Tecnologia da Informação**  
-↓  
-**FIAP • Desenvolvimento Java**  
-↓  
-**Cybersecurity • Redes • Cloud**  
-↓  
-**Construindo minha carreira em TI 🚀**
+🤖 Inteligência Artificial
 
 ---
 
